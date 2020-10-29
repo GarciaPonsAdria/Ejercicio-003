@@ -11,7 +11,7 @@ Estructura de archivos:
 
       doc:
 
-           > Capturas de Pantalla
+           > Capturas de Pantalla a mejor calidad
     
            > Documento explicación
   
