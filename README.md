@@ -18,4 +18,4 @@ Estructura de archivos:
       src:
            > actividad_2.js
           
-      Readme.md
+      README.md
