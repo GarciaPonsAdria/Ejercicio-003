@@ -9,13 +9,13 @@ Ejerc: 003
 
 Estructura de archivos:
 
-  Doc:
+      Doc:
 
-      > Capturas de Pantalla
+           > Capturas de Pantalla
     
-      > Documento explicación
-    
-  Readme.md
+           > Documento explicación
   
-  src:
-      > actividad_2.js
+      src:
+          > actividad_2.js
+          
+      Readme.md
