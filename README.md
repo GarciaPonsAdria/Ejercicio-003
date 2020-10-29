@@ -16,6 +16,6 @@ Estructura de archivos:
            > Documento explicación
   
       src:
-          > actividad_2.js
+           > actividad_2.js
           
       Readme.md
