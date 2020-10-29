@@ -9,7 +9,7 @@ Ejerc: 003
 
 Estructura de archivos:
 
-      Doc:
+      doc:
 
            > Capturas de Pantalla
     
