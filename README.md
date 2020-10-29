@@ -5,7 +5,7 @@ Autor: Adrià García Pons
 
 Fecha: 29/10/2020
 
-Ejerc: 003
+Ejercicio: 003
 
 Estructura de archivos:
 
